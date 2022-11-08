@@ -8,6 +8,8 @@ The Amazon Vine program allows manufacturers and publishers to receive reviews f
 
 ## Results
 
+![5.png](images/5.png)
+
 • The data set I analyzed was (Home reviews) there are a total of 92,216 Vine and Non-vine reviewers.
 
 • Vine and Non-vine reviewer 5-star ratings total 44,751.
