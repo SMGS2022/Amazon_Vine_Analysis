@@ -8,16 +8,6 @@ The Amazon Vine program allows manufacturers and publishers to receive reviews f
 
 ## Results
 
-![customers.png](images/customers.png)              
-
-![product.png](images/product.png)
-
-![review.png](images/review.png)
-
-![vine.png](images/vine.png)
-
-![5.png](images/5.png)
-
 • The data set I analyzed was (Home reviews) there are a total of 92,216 Vine and Non-vine reviewers.
 
 • Vine and Non-vine reviewer 5-star ratings total 44,751.
@@ -27,6 +17,16 @@ The Amazon Vine program allows manufacturers and publishers to receive reviews f
 • Percentage of paid ratings is 0.7% while percentage of unpaid ratings is 47.8%.
 
 • Non-vine reviews account for 46.3% of all 5-star reviews while paid reviews accounts for 57.1%.
+
+![customers.png](images/customers.png)              
+
+![product.png](images/product.png)
+
+![review.png](images/review.png)
+
+![vine.png](images/vine.png)
+
+![5.png](images/5.png)
 
 ## Summary
 
